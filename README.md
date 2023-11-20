@@ -62,9 +62,6 @@ My primary skills include React, JavaScript, HTML, CSS/SASS, Node.js, and Expres
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremichShane-FS&layout=compact&theme=dark" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JeremichShane-FS&layout=compact" />
-  </p>
 
 </br></br>
                                                                                                     
